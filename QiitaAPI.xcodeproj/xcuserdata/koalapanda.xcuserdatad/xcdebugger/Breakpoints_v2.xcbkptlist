@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B5565E02-8AC1-40F5-9FAB-943DA8F24CF9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B00C8BE3-CFC3-4840-8326-047674D7F606"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QiitaAPI/Search/Controller/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "tapSearchButton(_sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B00C8BE3-CFC3-4840-8326-047674D7F606 - a9d4075d502ea283"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QiitaAPI.SearchViewController.tapSearchButton(_sender: __C.UIResponder) -&gt; ()"
+                  moduleName = "QiitaAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koalapanda/Documents/iOS-sakiyama/QiitaAPI/QiitaAPI/Search/Controller/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "B00C8BE3-CFC3-4840-8326-047674D7F606 - 9b6974349c11254d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;QiitaAPI.QiitaModel&gt;, QiitaAPI.QiitaError&gt;) -&gt; () in QiitaAPI.SearchViewController.tapSearchButton(_sender: __C.UIResponder) -&gt; ()"
+                  moduleName = "QiitaAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koalapanda/Documents/iOS-sakiyama/QiitaAPI/QiitaAPI/Search/Controller/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3A82B6F-84F6-4AA4-84D8-F3B07424B298"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QiitaAPI/Search/Controller/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "tapSearchButton(_sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFEB0885-CD72-4406-BE1A-9FF86F199799"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QiitaAPI/Search/Controller/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "tapSearchButton(_sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "724B40DF-B463-4403-889A-990437678643"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QiitaAPI/Search/Utility/QiitaAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "get(searchTextField:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E034011-5CDE-4798-BA23-EE86890D2193"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QiitaAPI/Search/Utility/QiitaAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "get(searchTextField:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00AB5634-A223-4C55-BCCB-68457F2A7D34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QiitaAPI/Search/Utility/QiitaAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "get(searchTextField:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFB587DC-DD66-4873-ACE3-15F010D144DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QiitaAPI/Search/Utility/QiitaAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "get(searchTextField:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFB587DC-DD66-4873-ACE3-15F010D144DD - 755540dbb90a5b4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in QiitaAPI.QiitaAPI.get(searchTextField: Swift.String, completion: Swift.Optional&lt;(Swift.Result&lt;Swift.Array&lt;QiitaAPI.QiitaModel&gt;, QiitaAPI.QiitaError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "QiitaAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koalapanda/Documents/iOS-sakiyama/QiitaAPI/QiitaAPI/Search/Utility/QiitaAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "BFB587DC-DD66-4873-ACE3-15F010D144DD - 755540dbb90a5b4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in QiitaAPI.QiitaAPI.get(searchTextField: Swift.String, completion: Swift.Optional&lt;(Swift.Result&lt;Swift.Array&lt;QiitaAPI.QiitaModel&gt;, QiitaAPI.QiitaError&gt;) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "QiitaAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/koalapanda/Documents/iOS-sakiyama/QiitaAPI/QiitaAPI/Search/Utility/QiitaAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5052B7B2-2861-4FAD-8A0A-67F2C5FE2CDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QiitaAPI/Search/Utility/QiitaAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "get(searchTextField:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
